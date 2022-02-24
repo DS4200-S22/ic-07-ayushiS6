@@ -1,7 +1,7 @@
 # ic-07
 ic-07 - Intro to D3
 
-Link to GitHub Pages: `[insert your clickable hyperlink here]`
+Link to GitHub Pages: `[ https://ds4200-s22.github.io/ic-07-ayushiS6/]`
 
 ## Purpose
 
@@ -13,7 +13,7 @@ The purpose of this assignment is to start learning how to use D3.js to build cu
 
 1. You can find a reference for what your final webpage should look like and how it should behanve in the "reference" folder. 
 
-1. Create a GitHub Page for your repo and add the link to your GitHub Page above where you see `[insert your clickable hyperlink here]`. 
+1. Create a GitHub Page for your repo and add the link to your GitHub Page above where you see `[https://ds4200-s22.github.io/ic-07-ayushiS6/]`. 
 
 1. Clone this repo and work locally. Be sure to push the final version of your code (and any significant updates along the way) before submitting. 
 
